@@ -1,0 +1,314 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+body{
+  background-color: rgb(246, 241, 241);
+}
+.logo{
+  background: url(../Img/logotel-removebg-preview.png) no-repeat 80% 80%;
+  background-size: contain;
+  width: 300px;
+  height: 150px;
+  float: left;
+}
+.menu { 
+  position:right; 
+  right: 10px; 
+  padding:5%;
+} 
+ 
+.menu a { 
+  color: #1000f6; 
+  text-decoration: none; 
+  font-weight: 600; 
+  margin-left: 150px; 
+  transition: color 1s; 
+  font-size: x-large;
+} 
+ 
+.menu a:hover { 
+  color: #ff0000; 
+} 
+ 
+.img { 
+  width:100%; 
+  height:700px; 
+  background: url() no-repeat; 
+  background-size: cover; 
+  margin-top: 80px; 
+}
+.titulo1{
+  color:red;
+}
+.img1 {
+  width: 500px;
+  /* Ancho del contenido */
+  padding: 10px;
+  /* Espacio interno */
+  border: 5px solid rgb(171, 109, 2);
+  /* Borde */
+  /* Ancho total será 200 + 20*2 + 5*2 = 250px */
+}
+.texto1{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: x-large;
+  padding: 10px;
+  /* Espacio interno */
+  border: 5px solid rgb(188, 134, 10);
+}
+.titulo2{
+  color: red;
+}
+.img3{
+          
+  width: 600px;
+  /* Ancho total */
+  padding: 10px;
+  /* Espacio interno */
+  border: 5px solid rgb(255, 0, 0);
+  /* Borde */
+  box-sizing: border-box;
+  /* Ancho total será 200px (ya incluye padding y borde) */
+}
+.a1{
+  color: rgb(230, 33, 72);
+}
+.img4{
+          
+  width: 600px;
+  /* Ancho total */
+  padding: 10px;
+  /* Espacio interno */
+  border: 5px solid rgb(255, 242, 0);
+  /* Borde */
+  box-sizing: border-box;
+  /* Ancho total será 200px (ya incluye padding y borde) */
+}
+.img5{
+          
+  width: 600px;
+  /* Ancho total */
+  padding: 10px;
+  /* Espacio interno */
+  border: 5px solid rgb(8, 100, 14);
+  /* Borde */
+  box-sizing: border-box;
+  /* Ancho total será 200px (ya incluye padding y borde) */
+}
+.img6{
+          
+  width: 600px;
+  /* Ancho total */
+  padding: 10px;
+  /* Espacio interno */
+  border: 5px solid rgb(17, 0, 251);
+  /* Borde */
+  box-sizing: border-box;
+  /* Ancho total será 200px (ya incluye padding y borde) */
+}
+.img7{
+          
+  width: 600px;
+  /* Ancho total */
+  padding: 10px;
+  /* Espacio interno */
+  border: 5px solid rgb(74, 70, 66);
+  /* Borde */
+  box-sizing: border-box;
+  /* Ancho total será 200px (ya incluye padding y borde) */
+}
+.img8{
+          
+width: 600px;
+/* Ancho total */
+padding: 10px;
+/* Espacio interno */
+border: 5px solid rgb(139, 8, 175);
+/* Borde */
+box-sizing: border-box;
+/* Ancho total será 200px (ya incluye padding y borde) */
+}
+.img9{
+          
+width: 600px;
+/* Ancho total */
+padding: 10px;
+/* Espacio interno */
+border: 5px solid rgb(254, 157, 0);
+/* Borde */
+box-sizing: border-box;
+/* Ancho total será 200px (ya incluye padding y borde) */
+}
+.img10{
+          
+width: 600px;
+/* Ancho total */
+padding: 10px;
+/* Espacio interno */
+border: 5px solid rgb(0, 0, 0);
+/* Borde */
+box-sizing: border-box;
+/* Ancho total será 200px (ya incluye padding y borde) */
+}
+.crun1{
+          
+width: 400px;
+/* Ancho total */
+padding: 10px;
+/* Espacio interno */
+border: 5px solid rgb(155, 140, 7);
+/* Borde */
+box-sizing: border-box;
+/* Ancho total será 200px (ya incluye padding y borde) */
+}
+.textoa{
+font-family: fantasy;
+font-size: x-large;
+border: 5px solid rgb(136, 88, 68);
+/* Borde */
+box-sizing: border-box;
+}
+.imga{
+          
+width: 200px;
+/* Ancho total */
+padding: 10px;
+/* Espacio interno */
+border: 5px solid rgb(14, 11, 222);
+/* Borde */
+box-sizing: border-box;
+/* Ancho total será 200px (ya incluye padding y borde) */
+}
+.imgb{
+          
+width: 200px;
+/* Ancho total */
+padding: 10px;
+/* Espacio interno */
+border: 5px solid rgb(241, 170, 5);
+/* Borde */
+box-sizing: border-box;
+/* Ancho total será 200px (ya incluye padding y borde) */
+}
+.imgc{
+          
+width: 200px;
+/* Ancho total */
+padding: 10px;
+/* Espacio interno */
+border: 5px solid rgb(0, 0, 0);
+/* Borde */
+box-sizing: border-box;
+/* Ancho total será 200px (ya incluye padding y borde) */
+}
+.img99{
+          
+  width: 517px;
+  /* Ancho total */
+  padding: 10px;
+  /* Espacio interno */
+  border: 5px solid rgb(255, 0, 0);
+  /* Borde */
+  box-sizing: border-box;
+  /* Ancho total será 200px (ya incluye padding y borde) */
+}
+.img98{
+          
+  width: 517px;
+  /* Ancho total */
+  padding: 10px;
+  /* Espacio interno */
+  border: 5px solid rgb(251, 255, 0);
+  /* Borde */
+  box-sizing: border-box;
+  /* Ancho total será 200px (ya incluye padding y borde) */
+}
+.img90{
+          
+  width: 600px;
+  /* Ancho total */
+  padding: 10px;
+  /* Espacio interno */
+  border: 5px solid rgb(4, 254, 250);
+  /* Borde */
+  box-sizing: border-box;
+  /* Ancho total será 200px (ya incluye padding y borde) */
+  }
+  .img91{
+          
+    width: 600px;
+    /* Ancho total */
+    padding: 10px;
+    /* Espacio interno */
+    border: 5px solid rgb(45, 4, 4);
+    /* Borde */
+    box-sizing: border-box;
+    /* Ancho total será 200px (ya incluye padding y borde) */
+    }
+        .img89{
+          
+          width: 730px;
+          /* Ancho total */
+          padding: 10px;
+          /* Espacio interno */
+          border: 5px solid rgb(8, 136, 179);
+          /* Borde */
+          box-sizing: border-box;
+          /* Ancho total será 200px (ya incluye padding y borde) */
+        }
+        .img88{
+          
+          width: 790px;
+          /* Ancho total */
+          padding: 10px;
+          /* Espacio interno */
+          border: 5px solid rgb(36, 39, 40);
+          /* Borde */
+          box-sizing: border-box;
+          /* Ancho total será 200px (ya incluye padding y borde) */
+        }
+        .img87{
+          
+          width: 350px;
+          /* Ancho total */
+          padding: 10px;
+          /* Espacio interno */
+          border: 5px solid rgb(216, 140, 8);
+          /* Borde */
+          box-sizing: border-box;
+          /* Ancho total será 200px (ya incluye padding y borde) */
+        }
+        .img86{
+          
+          width: 630px;
+          /* Ancho total */
+          padding: 10px;
+          /* Espacio interno */
+          border: 5px solid rgb(100, 10, 184);
+          /* Borde */
+          box-sizing: border-box;
+          /* Ancho total será 200px (ya incluye padding y borde) */
+        }
+        .img85{
+          
+          width: 350px;
+          /* Ancho total */
+          padding: 10px;
+          /* Espacio interno */
+          border: 5px solid rgb(56, 4, 186);
+          /* Borde */
+          box-sizing: border-box;
+          /* Ancho total será 200px (ya incluye padding y borde) */
+        }
+        .imgd{
+          
+          width: 200px;
+          /* Ancho total */
+          padding: 10px;
+          /* Espacio interno */
+          border: 5px solid rgb(0, 253, 68);
+          /* Borde */
+          box-sizing: border-box;
+          /* Ancho total será 200px (ya incluye padding y borde) */
+          }
